@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Vishal Dubey</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="top" width="800" alt="coding" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
+<img align="top" width="700" alt="coding" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
 
 <p align="top"> <img src="https://komarev.com/ghpvc/?username=vishal1732&label=Profile%20views&color=0e75b6&style=flat" alt="vishal1732" /> </p>
 
@@ -16,10 +16,10 @@
 - ⚡ Fun fact **I also love to hear song during coding.**
 
 <h3 align="center">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vishaldubey9120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishaldubey9120" height="30" width="40" /></a>
-<a href="https://instagram.com/bloodybinary_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bloodybinary_01" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vishaldubey9120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vishaldubey9120" height="30" width="40" /></a>
+<p align="center">
+<a href="https://linkedin.com/in/vishaldubey9120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishaldubey9120" height="50" width="60" /></a>
+<a href="https://instagram.com/bloodybinary_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bloodybinary_01" height="50" width="60" /></a>
+<a href="https://www.leetcode.com/vishaldubey9120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vishaldubey9120" height="50" width="60" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
